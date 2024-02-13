@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    padding: 10px 1%;
+    font: 16px 'Small Fonts';
+    background-color: orange;
+}
+header > h1{
+    color: yellow;
+    margin: 5;
+    text-shadow: 5px 2px black;
+}
+header > h2{
+    color:rgb(73, 9, 9);
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 10px;
+    font-size: 2rem;
+}
+main > h3{
+    color: white;
+    text-shadow: 5px 2px black;
+}
+nav > a {
+    text-decoration: none;
+    font: 16px 'Consolas';
+    padding: 6px 40px 8px 40px;
+    display: inline-block;
+    color:navy;
+    border: 1px solid white;
+}
+nav > a:hover {
+    color:red;
+    background-color: lightgreen;
+    border: 1px solid red;
+    border-radius: 10px;
+}  
