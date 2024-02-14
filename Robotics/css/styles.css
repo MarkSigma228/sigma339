@@ -29,8 +29,8 @@ nav > a {
     border: 1px solid white;
 }
 nav > a:hover {
-    color:red;
+    color:blue;
     background-color: lightgreen;
-    border: 1px solid red;
+    border: 1px solid white;
     border-radius: 10px;
 }  
